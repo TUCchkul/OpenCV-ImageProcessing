@@ -1,0 +1,4 @@
+#opencv=4.5
+matplotlib
+#numpy
+pandas
