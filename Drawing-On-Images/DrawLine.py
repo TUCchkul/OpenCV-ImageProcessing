@@ -9,6 +9,6 @@ thickness=25
 #Draw arrow
 image_with_line=cv2.arrowedLine(img=image,pt1=point1,pt2=point2, thickness=thickness,color=color, tipLength=1.2)
 cv2.imshow('Image', image_with_line)
-cv2.imwrite('D:\OPENCV-ImageProcessing\OpenCV-ImageProcessing\Drawing-On-Images\Fucking Muhammad.jpg',image_with_line)
+cv2.imwrite('D:\OPENCV-ImageProcessing\OpenCV-ImageProcessing\Drawing-On-Images\Propfet-Muhammad.jpg',image_with_line)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
