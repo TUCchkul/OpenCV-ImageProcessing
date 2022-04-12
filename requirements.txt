@@ -1,5 +1,6 @@
-#opencv=4.5
+#opencv
 matplotlib
+opencv-python
 numpy
-pandas
+#pandas
 notebook
